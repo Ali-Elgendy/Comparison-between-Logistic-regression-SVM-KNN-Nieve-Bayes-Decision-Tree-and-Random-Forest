@@ -1,6 +1,6 @@
 # Comparison-between-Logistic-regression-SVM-KNN-Nieve-Bayes-Decision-Tree-and-Random-Forest
 
-n this project we will combrise between Logistic regression & SVM & KNN & Nieve Bayes & Decision Tree and Random Forest for models classification (shown below) using scikit-learn . Our training data set contains continuous and categorical data from the UCI Machine Learning Repository to predict whether or not a patient has heart disease.
+In this project we will combrise between Logistic regression & SVM & KNN & Nieve Bayes & Decision Tree and Random Forest for models classification (shown below) using scikit-learn . Our training data set contains continuous and categorical data from the UCI Machine Learning Repository to predict whether or not a patient has heart disease.
 
 We will go through 11 tasks to implement our project:
 
